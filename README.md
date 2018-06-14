@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+###Bienvenido a LaMagia Cordoba,Argentina
 
-You can use the [editor on GitHub](https://github.com/PsHye/LaMagia-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Entra aca [lamagiaadmins](https://pastebin.com/raw/ZppZPZBt) para ver cuales son los administradores
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+LaMagia es un grupo de amigos en constante crecimiento y actividad abuntante en variedad de videojuegos.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+##Servidores
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Actualmente tenemos servidores de:
+**Minecraft** : ---
+**Counter-Strike: Global Offensive**: --
 
-### Jekyll Themes
+```
+#Reglas:
+Para que el ingreso como nuevo miembro sea admitido, tiene que cumplir y aceptar las reglas de convivencia internas del grupo:
+1-No ofender intencionalmente a miembros (con aviso, despues, permaban)
+2-
+3-
+4-
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PsHye/LaMagia-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##Links
+[Discord](...)
 
-### Support or Contact
+```
+LaMagiaARG © 2018
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
